@@ -1,6 +1,6 @@
 # My-Crypto-Coin
 
-This is a very simple cryptocurrency implementation, similar to Bitcoin's PoW, in javascript and [PubNub](www.pubnub.com) (although Redis would ideally be better) and basic React for the frontend.
+This is a very simple cryptocurrency implementation, similar to Bitcoin's PoW, in javascript and [PubNub](https://www.pubnub.com) (although Redis would ideally be better) and basic React for the frontend.
 
 The deployed version using Heroku can be found [here](https://ancient-fortress-27407.herokuapp.com/), where you can play around a bit to see the basic functionality. Note if it gives you an error (*Not Found*), give it 15-30 secs and reload as Heroku takes a bit to start.
 
