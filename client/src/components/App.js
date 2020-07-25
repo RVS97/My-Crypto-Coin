@@ -19,7 +19,7 @@ componentDidMount() {
             <div className='App'>
                 <img className='logo' src={logo}></img>
                 <br />
-                <div>Welcome to the blockchain...</div>
+                <div>Welcome to my Cryptocoin's blockchain</div>
                 <br />
                 <div><Link to='/blocks'>Blocks</Link></div>
                 <div><Link to='/conduct-transaction'>Conduct a Transaction</Link></div>
