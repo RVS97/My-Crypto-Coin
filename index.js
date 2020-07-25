@@ -20,7 +20,7 @@ const transactionMiner = new TransactionMiner({ blockchain, transactionPool, wal
 const DEFAULT_PORT = 3000;
 const ROOT_NODE_ADDRESS = isDevelopment ? 
     `http://localhost:${DEFAULT_PORT}` :
-    'https://safe-journey-48795.herokuapp.com';
+    'https://ancient-fortress-27407.herokuapp.com';
 
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'client/dist')));
