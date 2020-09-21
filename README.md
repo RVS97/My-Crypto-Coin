@@ -53,3 +53,6 @@ npm run dev-peer
 ```
 
 This should launch an additional peer on another port (should be logged in the corresponding logs), which can interact with the main peer using the addresses shown in the Home page.
+
+
+> This project was develoeped as part of the course, [Build a Blockchain & Cryptocurrency](https://www.udemy.com/course/build-blockchain-full-stack/)
